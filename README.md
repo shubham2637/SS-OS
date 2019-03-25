@@ -4,6 +4,9 @@ object code of the implementation file could be given to the user along with the
 interface given in the header file, hiding the source file, if required. Avoid I/O
 operations (printf/scanf) and use data input file where ever it is possible
 Lab Experiments:
+
+
+
 1.
 a) Write a LEX program to recognize valid arithmetic expression. Identifiers in the
 expression could be only integers and operators could be + and *. Count the identifiers
